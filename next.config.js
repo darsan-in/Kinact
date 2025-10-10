@@ -4,7 +4,7 @@ const nextConfig = {
 		buildActivityPosition: "top-right",
 	},
 	output: "export",
-	distDir: "./kinact-package",
+	distDir: "./out",
 	basePath: "",
 	assetPrefix: "",
 };
