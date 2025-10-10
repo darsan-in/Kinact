@@ -3,3 +3,4 @@ node_modules
 .next
 kinact-package
 next-env.d.ts
+.wrangler/
